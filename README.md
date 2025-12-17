@@ -1,3 +1,3 @@
 # Airbnb-Berlin-Price-Estimator-AI-Models
 
-![Alt text](AirBnb-AI-Price-Estimator.svg)
+![Alt text](System_Diagram.svg)
