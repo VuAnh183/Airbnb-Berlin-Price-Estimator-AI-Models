@@ -53,4 +53,4 @@ airbnb:
 
 For the `account` field, the easiest way to get it is to take a look at your **Snowflake Registration email** and copy the string before `.snowflakecomputing.com`. 
 
-After creating a Snowflake account, you will receive an email containing your `Username` and `Dedicated Login URL`
+P/s: After creating a Snowflake account, you will receive an email containing your `Username` and `Dedicated Login URL`
