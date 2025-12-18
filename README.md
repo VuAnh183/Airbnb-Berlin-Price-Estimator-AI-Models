@@ -29,7 +29,7 @@ Quick summary of the project:
 
 ## Installation
 For this project, you should have your own **Snowflake** and **Preset** account. For the **Snowflake** account, you can keep recreating new ones **using the same email** to get infinite credits *(it could be patched by the time you read this)*. 
-Keep in mind that if you using new Snowflake account, you have to do the whole database/role setup again.
+Keep in mind that if you using new Snowflake account, you have to do the whole database/role setup again. Detailed instruction could be found in the [Snowflake setup README file](./Snowflake/README.md).
 
 You should also create a virtual environment for this project either by **uv**, **conda** or just regular env library by Python:
 
